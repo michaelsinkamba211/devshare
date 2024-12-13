@@ -11,6 +11,21 @@ DevShare is a collaborative platform designed for developers to showcase their p
 - **Responsive Design**: Fully responsive interface ensuring usability across all devices.
 - **Role Assignment**: Each member gets opportunities to present and contribute.
 
+
+## Activity Guidelines
+
+### Product/Project Reveal & Progress Sharing
+- The assigned member shares one product or up to three related products during their session.
+- Before the session, they must specify which single product will be shared on the WhatsApp group for visibility.
+- Examples of products include designs, projects, or any IT/CS-related work.
+- The assigned member must provide a focus for the discussion, e.g., "How's this product's interface? Test for bugs. Any improvements?" This ensures targeted feedback.
+- Other members will monitor, test, and review the product(s), preparing their comments and feedback for the following day's session.
+
+### Feedback & Improvement Discussion
+- Members discuss the assigned product shared during the previous session.
+- Constructive feedback is provided, including suggestions for improvements, bug reports, and overall assessment.
+- The discussion promotes collaborative problem-solving and continuous improvement.
+
 ## Tech Stack
 
 - **Frontend**: HTML5, CSS3, Bootstrap 5
@@ -32,6 +47,8 @@ DevShare is a collaborative platform designed for developers to showcase their p
 1. View the timetable for scheduled activities.
 2. Participate in activities by following the assigned roles.
 3. Provide or receive constructive feedback during group discussions.
+
+
 
 ## Contributors
 
