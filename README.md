@@ -54,5 +54,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Contact
 
 For any inquiries, reach out to the DevShare team at:
-- **Email**: support@devshare.com
-- **Website**: [www.devshare.com](http://www.devshare.online)
+- **Email**: support@devshare.online
+- **Website**: [www.devshare.online](http://www.devshare.online)
